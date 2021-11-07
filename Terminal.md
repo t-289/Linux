@@ -1,4 +1,12 @@
-# Bash configurations
+# Terminal tools
+
+* Unified Cheat sheets
+```
+    curl cheat.sh
+```
+
+
+### Bash configurations
 
 * Remove background on ls command
 
